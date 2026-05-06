@@ -19,7 +19,7 @@
 
 <br/>
 
-## `whoami`
+## `Who am I?`
 
 ```typescript
 const rahat = {
@@ -86,8 +86,42 @@ const rahat = {
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=flat-square&logo=clickup&logoColor=white)
+
+<br/>
+
+## AI-Powered Workflow
+
+> I integrate AI tools daily to ship faster, write cleaner code, and stay in flow.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white" /><br/>
+      <sub>AI Code Editor</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Claude-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white" /><br/>
+      <sub>AI Assistant</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /><br/>
+      <sub>Code Completion</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Antigravity-%236EE7F7.svg?style=for-the-badge&logo=sparkles&logoColor=0d1117" /><br/>
+      <sub>AI Tooling</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
