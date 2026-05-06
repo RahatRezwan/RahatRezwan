@@ -1,28 +1,146 @@
-<h1 align="center">Hi 👋, I'm Kazi Rahat Rezwan</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatrezwan&label=Profile%20views&color=0e75b6&style=flat" alt="rahatrezwan" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%" />
 
+# Kazi Rahat Rezwan
 
-- 🔭 I’m currently working on **AS Sunnah Foundation**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=6EE7F7&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+3%2B+Years+Experience;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+Specialist;Building+performant+%26+scalable+web+apps;Team+Lead+%40+AS+Sunnah+Foundation" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://kazirahat.com/](https://kazirahat.com/)
+<br/>
 
-- 💬 Ask me about **React, Node, Express, MongoDB etc.**
+[![Portfolio](https://img.shields.io/badge/kazirahat.com-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=6EE7F7)](https://kazirahat.com/)
+[![Email](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=6EE7F7)](mailto:kazi.rahat.rezwan889@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=6EE7F7)](https://github.com/Rahat-Rezwan)
+[![Profile Views](https://komarev.com/ghpvc/?username=rahatrezwan&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)](https://github.com/rahatrezwan)
 
-- 📫 How to reach me **kazi.rahat.rezwan889@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatrezwan" alt="rahatrezwan" /></a> </p>
+## `whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center;" > <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </div>
+```typescript
+const rahat = {
+  role:        "Frontend Developer",
+  location:    "Dhaka, Bangladesh 🇧🇩",
+  experience:  "3+ years",
+  currently:   "Frontend Lead @ AS Sunnah Foundation",
+  expertise:   ["React", "Next.js", "TypeScript", "Redux Toolkit", "TailwindCSS"],
+  focus:       ["Performance", "Clean Architecture", "Design Systems", "Team Leadership"],
+  education:   "BSc in CSE — Daffodil International University (CGPA: 3.67/4.00)",
+  contact:     "kazi.rahat.rezwan889@gmail.com",
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatrezwan&show_icons=true&locale=en&layout=compact" alt="rahatrezwan" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahatrezwan&show_icons=true&locale=en" alt="rahatrezwan" /></p>
+## Experience
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahatrezwan&" alt="rahatrezwan" /></p>
+**AS Sunnah Foundation** — *Frontend Developer* &nbsp;`Jan 2025 – Present`
+
+> Leading a 4-member frontend team · Next.js · TypeScript · Redux Toolkit · Design Systems · Code Reviews
+
+**AS Sunnah Foundation** — *Junior Frontend Developer* &nbsp;`Sep 2023 – Dec 2024`
+
+> React · Next.js · RTK Query · MUI · Ant Design · Tailwind CSS · Agile
+
+**AIDE Business Solution** — *Junior MERN Stack Developer* &nbsp;`Jun 2023 – Sep 2023`
+
+> React · TypeScript · TailwindCSS · Node.js · Express · MongoDB · Led backend team
+
+<br/>
+
+## Tech Stack
+
+**Core**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+**Styling & UI**
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=flat-square&logo=ant-design&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=flat-square&logo=shadcnui&logoColor=white)
+
+**State & Data**
+
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=flat-square&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=flat-square&logo=axios&logoColor=white)
+
+**Backend & DB**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+
+<br/>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>YC Directory</h3>
+      <p><em>Startup Pitch Showcasing Platform</em></p>
+      <p>Built with Next.js 15 & React 19 — leveraging SSR, ISR, and PPR. Authentication via Next Auth, UI with Shadcn & Tailwind, data layer on Sanity CMS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2015-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/React%2019-%2320232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Shadcn%20UI-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Phoner Dokan</h3>
+      <p><em>Second-hand Phone Marketplace</em></p>
+      <p>Full-stack marketplace with role-based access (admin / seller / buyer), Firebase Auth, Stripe payments, and a REST API secured with JWT.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Stripe-%23635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahatrezwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatrezwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahatrezwan&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7F7&ring=302b63&fire=6EE7F7&currStreakLabel=6EE7F7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahatrezwan&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%" />
+</div>
