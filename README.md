@@ -5,7 +5,7 @@
 # Kazi Rahat Rezwan
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=6EE7F7&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+3%2B+Years+Experience;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+Specialist;Building+performant+%26+scalable+web+apps;Frontend+Lead+%40+AS+Sunnah+Foundation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=6EE7F7&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+3.5%2B+Years+Experience;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+Specialist;Building+performant+%26+scalable+web+apps;Frontend+Lead+%40+AS+Sunnah+Foundation" alt="Typing SVG" />
 </a>
 
 <br/>
