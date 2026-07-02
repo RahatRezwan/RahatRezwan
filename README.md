@@ -25,7 +25,7 @@
 const rahat = {
   role:        "Frontend Developer",
   location:    "Dhaka, Bangladesh 🇧🇩",
-  experience:  "3+ years",
+  experience:  "3.5+ years",
   currently:   "Frontend Lead @ AS Sunnah Foundation",
   expertise:   ["React", "Next.js", "TypeScript", "Redux Toolkit", "TailwindCSS"],
   focus:       ["Performance", "Clean Architecture", "Design Systems", "Team Leadership"],
